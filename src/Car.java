@@ -6,6 +6,12 @@ public class Car {
         return model;
     }
 
+    public Object motorType() {
+        Object motorType = null;
+        return motorType;
+    }
+
+
     public void setModel(String model) {
         this.model = model;
     }
