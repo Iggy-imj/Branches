@@ -3,6 +3,6 @@ public class VitaliiTestClass {
         System.out.println("Тестовый метод!!!");
         System.out.println("Тестовый метод!!!");
         System.out.println("Тестовый метод!!!");
-        System.out.println("Тестовый метод!!!");
+//        System.out.println("Тестовый метод!!!");
     }
 }
